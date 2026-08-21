@@ -1,0 +1,9 @@
+{
+  "name": "notbad-kreasi",
+  "version": "1.0.0",
+  "private": true,
+  "description": "NOTBAD KREASI — audio converter web app (Netlify frontend + functions)",
+  "dependencies": {
+    "@netlify/blobs": "^8.1.0"
+  }
+}
